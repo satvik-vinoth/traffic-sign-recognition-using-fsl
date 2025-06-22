@@ -1,7 +1,5 @@
 # traffic-sign-recognition-using-fsl
 
-# 🛑 Traffic Sign Detection using Few-Shot Learning (FSL)
-
 This repository contains the implementation of various deep learning models for **Traffic Sign Recognition** using **Few-Shot Learning (FSL)**. The models are trained and evaluated using the **Prototypical Network** approach on the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset, with additional testing on Indian traffic signs.
 
 ## 🚘 Overview
